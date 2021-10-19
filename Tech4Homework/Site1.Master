@@ -16,8 +16,8 @@
                 <h1 class="text-white">Pet Med </h1>
                 <div style="display: flex; flex-direction: row; justify-content: space-around; width: 25%">
                     <a class="nav-link text-white" href="Default.aspx">Home</a>
-                    <a class="nav-link text-white" href="PageTwo.aspx">Place Order Ticket</a>
-                    <a class="nav-link text-white" href="PageThree.aspx">Happy Customers </a>
+                    <a class="nav-link text-white" href="PageTwo.aspx">Place Order</a>
+                    <a class="nav-link text-white" href="PageThree.aspx">Customers </a>
                 </div>
             </nav>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
