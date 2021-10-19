@@ -6,7 +6,7 @@
          
       <div class="col-md-5 p-lg-5 mx-auto my-5">
         <h1 class="display-4 font-weight-normal">Welcome!</h1>
-        <p class="lead font-weight-normal">Pet Care Philadelphia is the best place to find cheap medication for your pet! We offer a multiple price selections for you to medicate your animal quickly and easily.</p>
+        <p class="lead font-weight-normal">Pet Med is the greatest site to get low-cost pet medication! We have a variety of price options for you to swiftly and easily medicate your animal.</p>
       </div>
       <div class="product-device box-shadow d-none d-md-block"></div>
       <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
