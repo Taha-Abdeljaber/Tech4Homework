@@ -21,40 +21,38 @@
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$0 <small class="text-muted"></small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>Contact us for a free consultation</li>
-              <li>Toll free number</li>
-              <li>Email support</li>
-              <li>Help center access</li>
+              <li>For a free consultation, please contact us</li>
+              <li>Toll-free telephone number</li>
+              <li>Email assistance is available.</li>
+              <li>Access to the help desk</li>
             </ul>
             <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
           <div class="card-header">
-            <h4 class="my-0 font-weight-normal">Animal Lover</h4>
+            <h4 class="my-0 font-weight-normal">Pet Fanatic</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
+            <h1 class="card-title pricing-card-title">$20 <small class="text-muted">/ mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>Perscription on a monthly basis</li>
-              <li>For one pet</li>
-              <li>Insurance support</li>
-              <li>Skilled pet pharmacy contact</li>
+              <li>On a monthly basis, you can get a prescription.</li>
+              <li>Insurance assistance for a single pet</li>
+              <li>Contact a professional pet pharmacy.</li>
             </ul>
             <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
           <div class="card-header">
-            <h4 class="my-0 font-weight-normal">Animal Farm</h4>
+            <h4 class="my-0 font-weight-normal">Pet Guru</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
+            <h1 class="card-title pricing-card-title">$40 <small class="text-muted">/ mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>Perscriptions every week</li>
-              <li>For multiple pets</li>
-              <li>Insurance coverage</li>
-              <li>Direct pet pharmacy access</li>
+              <li>Every week, prescriptions are written</li>
+              <li>If you have several pets, Insurance protection</li>
+              <li>Direct access to a pet pharmacy</li>
             </ul>
             <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
           </div>
